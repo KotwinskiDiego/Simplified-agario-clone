@@ -10,6 +10,7 @@ Simplified because it doesn’t include advanced mechanics such as:
 - Physics-based smooth mass splitting  
 - Leaderboards or score tracking system  
 
+AI is very simple — if the enemy is smaller, it runs away from you; if it’s bigger, it chases you.
 You control a circular player that grows by eating smaller food dots.  
 Avoid larger enemies, move towards smaller ones, and try to survive as long as possible!
 
